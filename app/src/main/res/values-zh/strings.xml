@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="search_hint">请输入要查询的日语单词</string>
+    <string name="action_settings">设置</string>
+
+
+</resources>
